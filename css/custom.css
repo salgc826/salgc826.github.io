@@ -1,0 +1,87 @@
+.navbar .navbar-brand {
+    color: ghostwhite;
+    font-size: 2rem;
+}
+
+.bg-primary {
+    background-color: #328383!important;
+}
+
+.bg-info {
+    background-color: white!important;
+}
+
+.text-white {
+    color: #328383!important;
+}
+
+.btn-outline-warning {
+    color: #fff;
+    background-color: #c25975!important;
+    border-color: #c25975!important;
+}
+
+.btn-outline-warning:hover {
+    color: #328383;
+    background-color: #fff;
+    border-color: #fff;
+}
+
+.card {
+    border-color: #c25975;
+}
+
+.text-muted {
+    color: #c25975!important;
+}
+
+.js {
+    color: #c25975;
+}
+
+.css {
+    color: #3079AB;
+}
+
+.html {
+    color: #39ADD1;
+}
+
+.ruby {
+    color: #e15258;
+}
+
+.small,
+small {
+    color: #328383;
+}
+
+.h3,
+h3 {
+    text-align: center;
+}
+
+body {
+    line-height: 2;
+}
+
+.footer {
+    background: #061D25;
+    padding: 10px 0;
+}
+
+.footer a {
+    color: #70726F;
+    font-size: 20px;
+    padding: 10px;
+    border-right: 1px solid #70726F;
+    transition: all .5s ease;
+}
+
+.footer a:first-child {
+    border-left: 1px solid #70726F;
+}
+
+.footer a:hover {
+    color: white;
+}
