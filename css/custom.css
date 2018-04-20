@@ -70,7 +70,7 @@ h3 {
 }
 
 .jumbotron {
-    background-image: url(/Users/carlossalgado/Desktop/salgc826.github.io/images/portland.jpg);
+    background-image: url(.../images/portland.jpg);
     background-size: cover;
     padding: 7rem 7rem;
 }
