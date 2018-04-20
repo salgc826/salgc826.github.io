@@ -27,6 +27,14 @@
     border-color: #fff;
 }
 
+.display-2 {
+    visibility: hidden;
+}
+
+.lead {
+    visibility: hidden;
+}
+
 .card {
     border-color: #c25975;
 }
@@ -59,6 +67,12 @@ small {
 .h3,
 h3 {
     text-align: center;
+}
+
+.jumbotron {
+    background-image: url(/Users/carlossalgado/Desktop/salgc826.github.io/images/portland.jpg);
+    background-size: cover;
+    padding: 7rem 7rem;
 }
 
 body {
